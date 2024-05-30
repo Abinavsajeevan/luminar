@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+    overflow: hidden;
+}
+
+.dclock {
+    font-size: 100px;
+    color: rgb(235, 110, 110);
+}
